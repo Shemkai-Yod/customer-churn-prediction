@@ -64,7 +64,7 @@ customer-churn-prediction/
 
 ## 🛠️ Skills Demonstrated
 
-`Python` `scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Classification` `Feature Engineering` `Cross-Validation` `ROC-AUC` `Data Analytics` `EDA`
+`Python` `scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Classification` `Feature Engineering` `Cross-Validation` `ROC-AUC` `SHAP` `Data Analytics` `EDA`
 
 ---
 
@@ -81,3 +81,11 @@ customer-churn-prediction/
 
 ### Confusion Matrix
 ![Confusion Matrix](07_confusion_matrix.png)
+
+├── 08_shap_summary.png                   # SHAP summary plot (feature impact)
+└── 09_shap_importance.png               # SHAP feature importance bar chart
+### SHAP Feature Importance
+![SHAP Summary](08_shap_summary.png)
+
+### SHAP Impact Plot
+![SHAP Importance](09_shap_importance.png)
