@@ -87,5 +87,3 @@ customer-churn-prediction/
 ### SHAP Feature Importance
 ![SHAP Summary](08_shap_summary.png)
 
-### SHAP Impact Plot
-![SHAP Importance](09_shap_importance.png)
